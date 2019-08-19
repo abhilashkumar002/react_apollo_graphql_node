@@ -1,0 +1,25 @@
+{
+  "name": "react_graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashkumar002/react_apollo_graphql_node.git"
+  },
+  "keywords": [
+    "reactjs",
+    "apollo",
+    "graphql",
+    "nodejs"
+  ],
+  "author": "abhilash kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashkumar002/react_apollo_graphql_node/issues"
+  },
+  "homepage": "https://github.com/abhilashkumar002/react_apollo_graphql_node#readme"
+}
